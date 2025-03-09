@@ -36,14 +36,32 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvg-QTlSGuGVKI
 
 #CANAIS 24 HRS
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
+#EXTINF:-1 group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhIrxJ8_hManxK_lbdGdNgT/ts
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
+#EXTINF:-1 group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvia2k_tmF_Qg5Ok94_ta6O3/ts
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
+#EXTINF:-1 group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjvN9wgGbfbgtKkLBNe0eUf/ts
-#EXTINF:-1 tvg-id="" tvg-name="24H UM MALUCO NO PEDAÇO" tvg-logo="https://prostore.app/logos/24H.png" group-title="24 HORAS",UM MALUCO NO PEDAÇO
+#EXTINF:-1 group-title="24 HORAS",UM MALUCO NO PEDAÇO
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhUae0Kjj5FDl11siM4vZ5w/ts
-#EXTINF:-1 tvg-logo="https://imgur.com/Efyxe3d.png" group-title="24 HORAS",Supernatural
+#EXTINF:-1 group-title="24 HORAS",Supernatural
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhsvAo5o-4gMJqd-a4p4IAK/ts
 
+#24HRS INFANTIL
+
+#EXTINF:-1 group-title="24HS INFANTIL",OS SIMPSONS
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvhm2VAHDsDJhjNG3o0zdaVV/ts
+#EXTINF:-1 group-title="24HS INFANTIL",BOB ESPONJA
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviGoYOpA3XsyAkuj_6h901u/ts
+#EXTINF:-1 group-title="24HS INFANTIL",PICA PAU
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviBzl0uzzcBsmUcej1FC4MK/ts
+#EXTINF:-1 group-title="24HS INFANTIL",POKEMON
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgJffP8GyH0pymu46Ox_M7M/ts
+#EXTINF:-1 group-title="24HS INFANTIL",TOM & JERRY
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjxczUIzukUyQuWU8MjLhOp/ts
+#EXTINF:-1 group-title="24HS INFANTIL",24H JACKIE CHAN
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvg08od8wRoiLmVuSKQ53UgK/ts
+#EXTINF:-1 group-title="24HS INFANTIL",24H JACKIE CHAN 2
+http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspi97ethjrl869MFJ1Wah4pR/ts
+#EXTINF:-1 group-title="24HS INFANTIL",[24H] Três Espiãs Demais
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvixDnv3uK-t9DSPqs0hU8bK/ts
