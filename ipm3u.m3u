@@ -1,3 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBOMundiHD4K" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="HBO",HBO MUNDI 4K
-http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvic65oX8_11TDcE2ay9vHTu/ts
+#GLOBO
+#EXTINF:-1 tvg-id="GloboSPFHD" tvg-name="GLOBO SP FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO SP FHD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvio5PVhDc6pRgBkO7benJF0/ts
+#EXTINF:-1 tvg-id="GloboSPFHD265" tvg-name="GLOBO SP FHD H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO SP FHD H265
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvhb8ZQQFRJGPUr9iPGgND8k/ts
+#EXTINF:-1 tvg-id="GloboSPHD" tvg-name="GLOBO SP HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO SP HD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvj7xeyab2ldxy61RBAInft4/ts
+#EXTINF:-1 tvg-id="GloboRJFHD" tvg-name="GLOBO RJ FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ FHD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviTxYUNfElM_Z_eBVW8cc6C/ts
+#EXTINF:-1 tvg-id="GloboRJFHD265" tvg-name="GLOBO RJ H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ H265
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjuPXMRpddP99c33zP2VGv3/ts
+#EXTINF:-1 tvg-id="GloboRJHD" tvg-name="GLOBO RJ HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ HD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhmgEKHZDLEutD_A6j1xjN8/ts
+#EXTINF:-1 ,RECORD BAHIA HD
+http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspjvRyjF2d-d248L4qr7Ly4E/ts
