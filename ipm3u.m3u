@@ -1,25 +1,3 @@
 #EXTM3U
-#EXTINF:10 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL FHD
-http://srvdns.vc:80/tsheiks/tsheiks/4794333.ts
-#EXTINF:10 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL HD
-http://srvdns.vc:80/tsheiks/tsheiks/4794334.ts
-#EXTINF:10 tvg-id="BR - Discovery Home &amp; Health" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://techzzi.site/logos/variedades/discoveryheh.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY HOME & HEALTH FHD
-http://srvdns.vc:80/tsheiks/tsheiks/4794336.ts
-#EXTINF:10 tvg-id="BR - Discovery Home &amp; Health" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://techzzi.site/logos/variedades/discoveryheh.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY HOME & HEALTH SD
-http://srvdns.vc:80/tsheiks/tsheiks/4794338.ts
-#EXTINF:10 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://techzzi.site/logos/documentario/discoveryscience.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY SCIENCE FHD
-http://srvdns.vc:80/tsheiks/tsheiks/4794339.ts
-#EXTINF:10 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://techzzi.site/logos/documentario/discoveryscience.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY SCIENCE HD
-http://srvdns.vc:80/tsheiks/tsheiks/4794340.ts
-#EXTINF:10 tvg-id="BR - Discovery HD Theater" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://techzzi.site/logos/documentario/discoverytheater.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY THEATER FHD
-http://srvdns.vc:80/tsheiks/tsheiks/4794342.ts
-#EXTINF:10 tvg-id="BR - Discovery HD Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://techzzi.site/logos/documentario/discoverytheater.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY THEATER HD
-http://srvdns.vc:80/tsheiks/tsheiks/4794343.ts
-#EXTINF:10 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://techzzi.site/logos/variedades/discoveryturbo.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TURBO FHD
-http://srvdns.vc:80/tsheiks/tsheiks/4794348.ts
-#EXTINF:10 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://techzzi.site/logos/variedades/discoveryturbo.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TURBO HD
-http://srvdns.vc:80/tsheiks/tsheiks/4794349.ts
-#EXTINF:10 tvg-id="BR - Discovery World HD" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://techzzi.site/logos/documentario/discoveryworld.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY WORLD FHD
-http://srvdns.vc:80/tsheiks/tsheiks/4794351.ts
-#EXTINF:10 tvg-id="BR - Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://techzzi.site/logos/documentario/discoveryworld.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY WORLD HD
-http://srvdns.vc:80/tsheiks/tsheiks/4794352.ts
+#EXTINF:-1 tvg-id="HBOMundiHD4K" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="HBO",HBO MUNDI 4K
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvic65oX8_11TDcE2ay9vHTu/ts
