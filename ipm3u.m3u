@@ -2,66 +2,6 @@
 #EXT-X-SESSION-DATA:DATA-ID="Streaming BR by @tsheiks"
 #EXTINF:-1 xui-id="379753" tvg-id="" tvg-name="⚽ JOGOS DO DIA" tvg-logo="https://i.postimg.cc/wB7KCrQz/FUTEBOL-SERVER.png" group-title="EVENTOS DO DIA",⚽ JOGOS DO DIA
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rsphzHUff8i1Ta6CZyhoOsVnz/ts
-#EXTINF:-1
-
--BBB 2025
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB1 Acompanhe a Casa FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB1 Acompanhe a Casa FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179431
-#EXTINF:-1 tvg-id="" tvg-name="BBB1 Acompanhe a Casa HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB1 Acompanhe a Casa HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/147453
-#EXTINF:-1 tvg-id="" tvg-name="BBB2 Acompanhe a Casa FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB2 Acompanhe a Casa FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179433
-#EXTINF:-1 tvg-id="" tvg-name="BBB2 Acompanhe a Casa HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB2 Acompanhe a Casa HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179432
-#EXTINF:-1 tvg-id="" tvg-name="BBB Academia FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Academia FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/191635
-#EXTINF:-1 tvg-id="" tvg-name="BBB Academia HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Academia HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179436
-#EXTINF:-1 tvg-id="" tvg-name="BBB Banheiro Pantene FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Banheiro Pantene FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/147549
-#EXTINF:-1 tvg-id="" tvg-name="BBB Banheiro Pantene HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Banheiro Pantene HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/164574
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha 01 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 01 FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/83799
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha 01 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 01 HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/83792
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha 02 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 02 FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/83437
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha 02 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 02 HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/83802
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Mosaico FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179435
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Mosaico HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179434
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Piscina FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/150203
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Piscina HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/147671
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Anos 50 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Anos 50 FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179437
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Anos 50 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Anos 50 HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179429
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Fantastico FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Fantastico FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/179428
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Fantastico HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Fantastico HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/164580
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Nordeste FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Nordeste FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/164579
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Nordeste HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Nordeste HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/163607
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Sala FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/176733
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Sala HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/147537
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB CAM 12 FHD
-http://nhflix.xyz:80/line65jessica/ontvline6748/162909
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB CAM 12 HD
-http://nhflix.xyz:80/line65jessica/ontvline6748/155342
-#EXTINF:-1 tvg-id=""
-
--Globo
-
 #EXTINF:-1 tvg-id="BR - Globo TV Bahia" tvg-name="GLOBO TV BAHIA  FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA  FHD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvijcjJs9ZGbFYQw4mD8V6b4/ts
 #EXTINF:-1 tvg-id="BR - Globo TV Bahia" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA HD
@@ -78,10 +18,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviTxYUNfElM_Z
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjuPXMRpddP99c33zP2VGv3/ts
 #EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhmgEKHZDLEutD_A6j1xjN8/ts
-#EXTINF:-1 tvg-id=
-
--Record
-
 #EXTINF:-1 tvg-id="Recordba.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD BAHIA HD
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspjvRyjF2d-d248L4qr7Ly4E/ts
 #EXTINF:-1 tvg-id="Recordba.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD BAHIA HD
@@ -96,10 +32,6 @@ http://nhflix.xyz:80/line65jessica/ontvline6748/157157
 http://nhflix.xyz:80/line65jessica/ontvline6748/162969
 #EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD RJ HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgkZwwnFK9cbU-riHmHSYUQ/ts
-#EXTINF:-1 tvg-id=
-
--SBT
-
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT 4K" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | SBT",SBT
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjPbxMMGSWnJAZ3zdJEAigg/ts
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT HD" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | SBT",SBT HD
@@ -120,10 +52,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvjq4wLQoujeVS
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjTNIxurZZo-PxLxJGVEE1S/ts
 #EXTINF:-1 tvg-id="Sbtba.br" tvg-name="SBT TV ARATU HD BAHIA." tvg-logo="http://dns.omelete.online:80/images/dd195b30217e8ec0178e7df6bc874a54.png" group-title="CANAIS | SBT",SBT TV ARATU HD BAHIA.
 http://contentsdeliver.link:8080/normaregina/982451290/52931
-#EXTINF:-1 tvg-id=""
-
--BAND
-
 #EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP 4k" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgK7PU2HYZ7P1yRPKEmMLf6/ts
 #EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND SP HD
@@ -136,10 +64,6 @@ http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspiGQ_9diVPML4
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjenKbEWIYkfiZNqgssnfwN/ts
 #EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="CANAIS | BAND",BAND RJ HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvg-QTlSGuGVKIUo4c65aWZn/ts
-#EXTINF:-1 tvg-id=
-
--CANAIS 24 HRS
-
 #EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="http://rochagalaxia.live/logos/euapatroaeascriancas250.png" group-title="CANAIS | 24 HORAS",24H EU A PATROA E AS CRIANÇAS
 http://nhflix.xyz:80/line65jessica/ontvline6748/62986
 #EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANCAS" tvg-logo="http://rochagalaxia.live/logos/euapatroaeascriancas250.png" group-title="CANAIS | 24 HORAS",EU A PATROA E AS CRIANCAS
@@ -164,10 +88,6 @@ http://nhflix.xyz:80/line65jessica/ontvline6748/83707
 http://dnsb.io:80/5511990043404/ray55s43s04/27357063
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural" tvg-logo="https://imgur.com/Efyxe3d.png" group-title="CANAIS | 24 HORAS",[24H] Supernatural
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhsvAo5o-4gMJqd-a4p4IAK/ts
-#EXTINF:-1 tvg-id=""
-
--24HRS INFANTIL
-
 #EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSONS 2000-2010" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24HS INFANTIL",24H OS SIMPSONS 2000-2010
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvhm2VAHDsDJhjNG3o0zdaVV/ts
 #EXTINF:-1 tvg-id="" tvg-name="BEN 10 2" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24HS INFANTIL",BEN 10
@@ -210,10 +130,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvixDnv3uK-t9D
 http://dnsb.io:80/5511990043404/ray55s43s04/27357122
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque" tvg-logo="https://imgur.com/Efyxe3d.png" group-title="CANAIS | 24HS INFANTIL",[24H] Super Choque
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjX_F-kuVohJkPpJJGms6-A/ts
-#EXTINF:-1 tvg-id=""
-
--FILMES E SERIES AO VIVO
-
 #EXTINF:-1 tvg-id="BR - TNT" tvg-name="TNT HD" tvg-logo="https://th.bing.com/th/id/OIP.YrJ4rGQ9xaIZ_JB51jinGAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | FILMES E SERIES",TNT HD1
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rsphyym46dlN2ofWmK4aPK65v/ts
 #EXTINF:-1 tvg-id="BR - TNT" tvg-name="TNT HD" tvg-logo="https://th.bing.com/th/id/OIP.YrJ4rGQ9xaIZ_JB51jinGAHaHa?rs=1&pid=ImgDetMain" group-title="CANAIS | FILMES E SERIES",TNT FHD
@@ -264,10 +180,6 @@ http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspjhyhN-ozWbQi
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspj6-XXYcOUmBPfpbQ12kY4S/ts
 #EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://techzzi.site/logos/variedades/cc.png" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL HD
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rsphgd7nH0Eu5G7I9tSejAbNJ/ts
-#EXTINF:-1 tvg-id=""
-
--CANAIS DISCOVERYS
-
 #EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL FHD
 http://srvdns.vc:80/tsheiks/tsheiks/4794333.ts
 #EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL HD
@@ -292,10 +204,6 @@ http://srvdns.vc:80/tsheiks/tsheiks/4794349.ts
 http://srvdns.vc:80/tsheiks/tsheiks/4794351.ts
 #EXTINF:-1 tvg-id="BR - Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://techzzi.site/logos/documentario/discoveryworld.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY WORLD HD
 http://srvdns.vc:80/tsheiks/tsheiks/4794352.ts
-#EXTINF:-1 tvg-id=
-
--CANAIS HBOs
-
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="CANAIS | HBO",HBO MUNDI 4K
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvic65oX8_11TDcE2ay9vHTu/ts
 #EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="CANAIS | HBO",HBO MUNDI HD
@@ -328,10 +236,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviI1ZfCD62Vay
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhjZUthRfZ7SQQ_Yx_4syZu/ts
 #EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="CANAIS | HBO",HBO 4K
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvhd8Gk7a-OH1oYkT5y78KGo/ts
-#EXTINF:-1 tvg-id=
-
--CANAIS | ESPN
-
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN  4K" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Emblema.png" group-title="CANAIS | ESPN",ESPN  
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvj6xs_ZbQemhMrItTcwi0Jj/ts
 #EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN  HD" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Emblema.png" group-title="CANAIS | ESPN",ESPN  HD
@@ -374,10 +278,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvjzy0MSyoaztg
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rsphtl6st7l7l_NlpFDeJwkh9/ts
 #EXTINF:-1 tvg-id="Espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/532/original/espn-logo-espn-icon-transparent-free-png.png" group-title="CANAIS | ESPN",ESPN 6 HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjLidyZdpJmY0DT-qgMj-2Q/ts
-#EXTINF:-1 tvg-id=
-
--SPORTVS
-
 #EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV FHD" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="CANAIS | SPORTV",SPORTV FHD
 http://nhflix.xyz:80/line65jessica/ontvline6748/151042
 #EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV FHD*" tvg-logo="https://images2.imgbox.com/28/9c/XSXzLI11_o.png" group-title="CANAIS | SPORTV",SPORTV FHD*
@@ -400,10 +300,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgU2r13cUhFWM
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspjlXcDYo2te2WNEqvS9s18Q/ts
 #EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 HD" tvg-logo="https://images2.imgbox.com/78/d6/Hu9sJS2x_o.png" group-title="CANAIS | SPORTV",SPORTV 3 HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhXoI4LX7anqQr5xup1lQNc/ts
-#EXTINF:-1 tvg-id=""
-
--PREMIERE 2
-
 #EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE Clubes HD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="CANAIS | PREMIERE3",PREMIERE Clubes HD
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rsphdsQgHwyLBPUiHbZL2B_zl/ts
 #EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE Clubes FHD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="CANAIS | PREMIERE3",PREMIERE Clubes FHD
@@ -434,10 +330,6 @@ http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspgZrM0Rz4BLsa
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspg6_R5jziVDo8hCFuEwq0M6/ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE Moisaco" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="CANAIS | PREMIERE3",Premiere Mosaico|Multi-Telas
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspiGLK2gAv0eLMzxblisx7Jx/ts
-#EXTINF:-1 tvg-id
-
--PREMIERE 3
-
 #EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="⚽ CANAIS • PREMIERE",PREMIERE CLUBES FULL HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjKtO6vOU1Idot8UqC4Z-oo/ts
 #EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="⚽ CANAIS • PREMIERE",PREMIERE CLUBES HD
@@ -460,10 +352,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvg7QhQl7EtcB4
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviC_CfrnH765cZVoX0xvVMK/ts
 #EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="⚽ CANAIS • PREMIERE",PREMIERE 6 HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvi8p5DZRW-KErOtD-LiMOEz/ts
-#EXTINF:-1 tvg-id=""
-
--ESPORTE USA
-
 #EXTINF:-1 tvg-id="" tvg-name="NBA 1 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | ESPORTE ONLINE",NBA 1 4K
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgMGXEFebAoVvM5FefFJ6y8/ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA 2 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="CANAIS | ESPORTE ONLINE",NBA 2 4K
@@ -504,10 +392,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgrMQJHik-vxU
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjIUV6sIoXvnvp21Oe_nT77/ts
 #EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 03 tvg-logo="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg" group-title="CANAIS | ESPORTE ONLINE",NOSSO FUTEBOL 03
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhQ4fqzgaft78cOwpuwUljY/ts
-#EXTINF:-1 tvg-id=""
-
-CANAIS DISNEY+
-
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="CANAIS | ESPORTE ONLINE",Disney Channel FHD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvihX0mcE_CQivqlHfC_9epE/ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="CANAIS | ESPORTE ONLINE",Disney Channel HD
@@ -530,10 +414,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvglw18bTGAq_e
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvgr0hWa7A8vMmZOw5BGaIbn/ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+" tvg-logo="http://beststorage4you.com:80/logoscanais/disneyplus.png" group-title="CANAIS | ESPORTE ONLINE",Disney+ 08
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvi_Bfzxx8l3iYNTmRQl-M-I/ts
-#EXTINF:-1 tvg-id=""
-
--MUSIC E VARIEDADES
-
 #EXTINF:-1 tvg-id="br#mtv" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="CANAIS | MUSICAS E VARIEDADES",MTV 4K
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvj3vD0mfypGempt93PAQZAG/ts
 #EXTINF:-1 tvg-id="br#mtv" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="CANAIS | MUSICAS E VARIEDADES",MTV HD
@@ -554,10 +434,6 @@ http://dnsb.io:80/maciel1711/TvMd11947942788/125936
 http://dnsb.io:80/maciel1711/TvMd11947942788/125943
 #EXTINF:-1 tvg-id="" tvg-name="R&B SOUL MUSIC CHOICE" tvg-logo="https://townsquare.media/site/812/files/2015/11/music_choice_logo_detail.png?w=1200&h=0&zc=1&s=0&a=t&q=89" group-title="CANAIS | MUSICAS E VARIEDADES",R&B SOUL MUSIC CHOICE
 http://dnsb.io:80/maciel1711/TvMd11947942788/125937
-#EXTINF:-1 tvg-id=""
-
--CANAIS TELECINE
-
 #EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION FHD" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhS09YyYEzQtPpwncmoNtIe/ts
 #EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION H265" tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png" group-title="CANAIS | TELECINE",TELECINE ACTION H265
@@ -594,10 +470,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhcEkj0PRkHPr
 http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspjrOjVleeLckK2Lsn1wb32R/ts
 #EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH HD" tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
 http://nhflix.xyz:80/line65jessica/ontvline6748/83825
-#EXTINF:-1 tvg-id=
-
--CANAIS INFANTIS AO VIVO
-
 #EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://th.bing.com/th/id/R.ebf5383bc4dd6ba1e1a60dc0ea0f068f?rik=K1X247EXL5VF0Q&pid=ImgRaw&r=0" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
 http://srv.hostinggon14.xyz:2082/Xplus-1-LCKWG0j3GW/zlvp6rFhrO/346
 #EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://th.bing.com/th/id/R.ebf5383bc4dd6ba1e1a60dc0ea0f068f?rik=K1X247EXL5VF0Q&pid=ImgRaw&r=0" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
@@ -622,8 +494,6 @@ http://trendapp.in:80/348255796/E624q4002T/376344
 http://trendapp.in:80/348255796/E624q4002T/376345
 #EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM HD" tvg-logo="https://media.wired.com/photos/5933513d7965e75f5f3c7847/191:100/pass/adultswim.jpg" group-title="CANAIS | INFANTIS",ADULT SWIM HD
 http://dnsb.io:80/waterloo1801/tvmd61981255525/27359648
-#EXTINF:-1 tvg-id=""
-
 #EXTINF:-1 tvg-id="" tvg-name="STREAMING BR PIPOCA 01" tvg-logo="http://84.16.238.214:2095/resized-STREAMING BR.png" group-title="STREAMING BR CINEMA",STREAMING BR PIPOCA 01
 http://srv.hostinggon14.xyz:2082/Xplus-1-LCKWG0j3GW/zlvp6rFhrO/1037
 #EXTINF:-1 tvg-id="" tvg-name="STREAMING BR PIPOCA 02" tvg-logo="http://84.16.238.214:2095/resized-STREAMING BR.png" group-title="STREAMING BR CINEMA",STREAMING BR PIPOCA 02
@@ -644,4 +514,3 @@ http://srv.hostinggon14.xyz:2082/Xplus-1-LCKWG0j3GW/zlvp6rFhrO/1044
 http://srv.hostinggon14.xyz:2082/Xplus-1-LCKWG0j3GW/zlvp6rFhrO/1045
 #EXTINF:-1 tvg-id="" tvg-name="STREAMING BR PIPOCA 10" tvg-logo="http://84.16.238.214:2095/resized-STREAMING BR.png" group-title="STREAMING BR CINEMA",STREAMING BR PIPOCA 10
 http://srv.hostinggon14.xyz:2082/Xplus-1-LCKWG0j3GW/zlvp6rFhrO/1046
-#EXTINF:-1 tvg-id=
