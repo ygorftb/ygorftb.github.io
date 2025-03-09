@@ -1,16 +1,30 @@
-#EXTM3U
-#GLOBO
-#EXTINF:-1 tvg-id="GloboSPFHD" tvg-name="GLOBO SP FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO SP FHD
-http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvio5PVhDc6pRgBkO7benJF0/ts
-#EXTINF:-1 tvg-id="GloboSPFHD265" tvg-name="GLOBO SP FHD H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO SP FHD H265
-http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvhb8ZQQFRJGPUr9iPGgND8k/ts
-#EXTINF:-1 tvg-id="GloboSPHD" tvg-name="GLOBO SP HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO SP HD
-http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvj7xeyab2ldxy61RBAInft4/ts
-#EXTINF:-1 tvg-id="GloboRJFHD" tvg-name="GLOBO RJ FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ FHD
+#EXTM3U	
+
+#Globo
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ FHD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviTxYUNfElM_Z_eBVW8cc6C/ts
-#EXTINF:-1 tvg-id="GloboRJFHD265" tvg-name="GLOBO RJ H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ H265
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ H265
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjuPXMRpddP99c33zP2VGv3/ts
-#EXTINF:-1 tvg-id="GloboRJHD" tvg-name="GLOBO RJ HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ HD
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhmgEKHZDLEutD_A6j1xjN8/ts
-#EXTINF:-1 ,RECORD BAHIA HD
-http://xillia.xyz:80/play/5Jaq3LYjpIe37kfmjZjKgbKhIF-xvb1yQ53s8W-rspjvRyjF2d-d248L4qr7Ly4E/ts
+
+#Record
+
+#EXTINF:-1 tvg-logo="https://prostore.app/logos/record.png" group-title="RECORD",RECORD RJ
+http://nhflix.xyz:80/line65jessica/ontvline6748/162969
+#EXTINF:-1 tvg-logo="https://prostore.app/logos/record.png" group-title="RECORD",RECORD RJ HD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgkZwwnFK9cbU-riHmHSYUQ/ts
+
+#SBT
+
+#EXTINF:-1 tvg-logo="https://prostore.app/logos/sbt.png" group-title="SBT",SBT HD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhOQbO7whQ91y5KJVyqAnSK/ts
+#EXTINF:-1 tvg-logo="https://prostore.app/logos/sbt.png" group-title="SBT",SBT
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjUV9RPNPLavvEL0liUqNql/ts
+#EXTINF:-1 tvg-logo="https://prostore.app/logos/sbt.png" group-title="SBT",SBT HD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviqATnS67UCJoE_x4JL7sXg/ts
+#EXTINF:-1 tvg-logo="https://prostore.app/logos/sbt.png" group-title="SBT",SBT RJ UHD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvirGTsIhzlqjsjQmv-A4WLx/ts
+#EXTINF:-1 tvg-logo="https://prostore.app/logos/sbt.png" group-title="SBT",SBT RJ UHD
+http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvjq4wLQoujeVSHEDqUjOWav/ts
