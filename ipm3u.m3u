@@ -1,23 +1,19 @@
 #EXTM3U	
-
 #Globo
-
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ FHD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviTxYUNfElM_Z_eBVW8cc6C/ts
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ H265
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjuPXMRpddP99c33zP2VGv3/ts
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="GLOBO",GLOBO RJ HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhmgEKHZDLEutD_A6j1xjN8/ts
 
 #Record
-
 #EXTINF:-1 tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvgf_8D6y6ofFE-8SPrXYChR/ts
 #EXTINF:-1 tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvgkZwwnFK9cbU-riHmHSYUQ/ts
 
 #SBT
-
 #EXTINF:-1 tvg-logo="https://prostore.app/logos/sbt.png" group-title="SBT",SBT HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhOQbO7whQ91y5KJVyqAnSK/ts
 #EXTINF:-1 tvg-logo="https://prostore.app/logos/sbt.png" group-title="SBT",SBT FHD
@@ -28,14 +24,12 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VviqATnS67UCJo
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvirGTsIhzlqjsjQmv-A4WLx/ts
 
 #BAND
-
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="BAND",BAND RJ HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvjenKbEWIYkfiZNqgssnfwN/ts
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="BAND",BAND RJ HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvg-QTlSGuGVKIUo4c65aWZn/ts
 
 #CANAIS 24 HRS
-
 #EXTINF:-1 group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhIrxJ8_hManxK_lbdGdNgT/ts
 #EXTINF:-1 group-title="24 HORAS",TODO MUNDO ODEIA O CHRIS HD
@@ -48,7 +42,6 @@ http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhUae0Kjj5FDl
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4VvhsvAo5o-4gMJqd-a4p4IAK/ts
 
 #24HRS INFANTIL
-
 #EXTINF:-1 group-title="24HS INFANTIL",OS SIMPSONS
 http://xillia.xyz:80/play/q3qAGnJXd9uefwu_qhVORFAlkC76_5jqBtSzKjB4Vvhm2VAHDsDJhjNG3o0zdaVV/ts
 #EXTINF:-1 group-title="24HS INFANTIL",BOB ESPONJA
