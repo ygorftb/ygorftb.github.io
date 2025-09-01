@@ -4,324 +4,69 @@
 #EXTINF:0 group-title="Canais | BAND", Band FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84940
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Brasilia HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/84996
-#EXTINF:0 group-title="Canais | GLOBO", Globo Centro America FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/84997
-#EXTINF:0 group-title="Canais | GLOBO", Globo EPTV Campinas FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/84998
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO EPTV CAMPINAS SD#
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/84999
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO EPTV RIBEIR 
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85000
-#EXTINF:0 group-title="Canais | GLOBO", Globo EPTV Sul de Minas FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85001
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO INTER TV CABUGI SD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85002
-#EXTINF:0 group-title="Canais | GLOBO", Globo Inter TV Grande Minas FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85003
-#EXTINF:0 group-title="Canais | GLOBO", Globo Minas FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85004
 #EXTINF:0 group-title="Canais | BAND", Band FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85006
-#EXTINF:0 group-title="Canais | GLOBO", Globo NSC Florianopolis FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85007
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO RBS PORTO ALEGRE SD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85008
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO RBS TV POA FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85009
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO REDE AMAZ 
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85010
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO RIO HD#
+
+#EXTINF:0 group-title="Canais | GLOBO", GLOBO RIO HD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85011
 #EXTINF:0 group-title="Canais | GLOBO", Globo RJ FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85012
-#EXTINF:0 group-title="Canais | GLOBO", Globo RPC Curitiba FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85013
-#EXTINF:0 group-title="Canais | GLOBO", Globo RPC Foz do Igua u FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85014
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO SP FHD
+#EXTINF:0 group-title="Canais | GLOBO" tvg-id="São.Paulo/SP..Globo.br", GLOBO SP FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85015
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Anhanguera  SD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85016
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO TV ANHANGUERA GOI 
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85017
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Bahia FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85018
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Belem FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85019
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Brasilia FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85020
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO TV LIBERAL BELEM SD#
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85021
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Mirante FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85022
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Morena FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85023
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO TV TEM BAURU SD#
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85024
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO TV TEM SOROCABA SD#
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85025
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO TV TRIBUNA SANTOS SD#
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85026
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO TV VANGUARDA S #EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85027
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Verdes Mares FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85028
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Anhanguera FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85029
-#EXTINF:0 group-title="Canais | RECORD", Record BA HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85070
-#EXTINF:0 group-title="Canais | RECORD", RECORD BELEM*
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85071
-#EXTINF:0 group-title="Canais | RECORD", Record BH HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85072
-#EXTINF:0 group-title="Canais | RECORD", Record DF HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85073
-#EXTINF:0 group-title="Canais | RECORD", Record ES HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85074
-#EXTINF:0 group-title="Canais | RECORD", Record FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85075
-#EXTINF:0 group-title="Canais | RECORD", Record GO HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85076
-#EXTINF:0 group-title="Canais | RECORD", Record HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85077
-#EXTINF:0 group-title="Canais | RECORD", RECORD MINAS HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85078
-#EXTINF:0 group-title="Canais | RECORD", Record News FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85079
-#EXTINF:0 group-title="Canais | RECORD", Record PA HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85080
-#EXTINF:0 group-title="Canais | RECORD", Record RJ HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85081
-#EXTINF:0 group-title="Canais | RECORD", Record RS HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85082
-#EXTINF:0 group-title="Canais | RECORD", RECORD RS*
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85083
-#EXTINF:0 group-title="Canais | RECORD", Record SP HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85084
-#EXTINF:0 group-title="Canais | RECORD", RECORD*
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85085
-#EXTINF:0 group-title="Canais | REDE TV", Rede TV FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85088
-#EXTINF:0 group-title="Canais | SBT", SBT FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85089
 #EXTINF:0 group-title="Canais | GLOBO", GLOBO 4K
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85183
-#EXTINF:0 group-title="Canais | GLOBO", Globo EPTV Ribeirão Preto
+
+#EXTINF:0 group-title="Canais | RECORD", Record News FHD
 #EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85184
-#EXTINF:0 group-title="Canais | GLOBO", Globo Inter Cabugi HD
+http://Supersonictv.live:8080/309298/746090/85079
+#EXTINF:0 group-title="Canais | RECORD", Record RJ HD
 #EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85185
-#EXTINF:0 group-title="Canais | GLOBO", Globo Inter PT FHD
+http://Supersonictv.live:8080/309298/746090/85081
+#EXTINF:0 group-title="Canais | RECORD" tvg-id="São.Paulo/SP..Record.br", Record SP HD
 #EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85186
-#EXTINF:0 group-title="Canais | GLOBO", Globo Inter PT HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85187
-#EXTINF:0 group-title="Canais | GLOBO", Globo Inter TV Alto Litoral FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85188
-#EXTINF:0 group-title="Canais | GLOBO", Globo Inter TV Cabugi FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85189
-#EXTINF:0 group-title="Canais | GLOBO", Globo NSC Centro Oeste FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85190
-#EXTINF:0 group-title="Canais | GLOBO", Globo NSC TV Chapeco FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85191
-#EXTINF:0 group-title="Canais | GLOBO", Globo NSC TV Criciuma FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85192
-#EXTINF:0 group-title="Canais | GLOBO", Globo NSC TV Joinville FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85193
-#EXTINF:0 group-title="Canais | GLOBO", Globo RBS TV 4K
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85194
-#EXTINF:0 group-title="Canais | GLOBO", Globo RBS TV Caxias do Sul FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85195
-#EXTINF:0 group-title="Canais | GLOBO", Globo RBS TV Pelotas FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85196
-#EXTINF:0 group-title="Canais | GLOBO", Globo RBS TV Santa Maria FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85197
-#EXTINF:0 group-title="Canais | GLOBO", Globo Rede Amazonica FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85198
-#EXTINF:0 group-title="Canais | GLOBO", Globo RPC Maringa FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85199
-#EXTINF:0 group-title="Canais | GLOBO", Globo RPC Ponta Grossa FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85200
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Asa Branca FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85201
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Cabo Branco FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85202
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Clube FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85203
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Integra  o JF FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85204
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Recife FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85205
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Rio Sul FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85206
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV TEM SJRP
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85207
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV TEM Sorocaba HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85208
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Tribuna HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85209
-#EXTINF:0 group-title="Canais | GLOBO", Globo TV Vanguarda SJC
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85210
+http://Supersonictv.live:8080/309298/746090/85084
 #EXTINF:0 group-title="Canais | RECORD", RECORD 4K
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85245
-#EXTINF:0 group-title="Canais | RECORD", Record Bel m HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85246
-#EXTINF:0 group-title="Canais | RECORD", Record Bras lia HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85247
-#EXTINF:0 group-title="Canais | RECORD", Record Goi s HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85248
-#EXTINF:0 group-title="Canais | RECORD", Record Itapoan HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85249
-#EXTINF:0 group-title="Canais | RECORD", Record Manaus HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85250
-#EXTINF:0 group-title="Canais | RECORD", Record Minas HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85251
 #EXTINF:0 group-title="Canais | RECORD", Record Rio RJ HD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85252
-#EXTINF:0 group-title="Canais | RECORD", Record RS HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85253
-#EXTINF:0 group-title="Canais | RECORD", Record SC HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85254
-#EXTINF:0 group-title="Canais | RECORD", Record SD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85255
-#EXTINF:0 group-title="Canais | RECORD", Record SP HD
+#EXTINF:0 group-title="Canais | RECORD"tvg-id="São.Paulo/SP..Record.HD.br", Record SP HD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85256
+
+#EXTINF:0 group-title="Canais | REDE TV", Rede TV FHD
+#EXTVLCOPT:network-caching=1000
+http://Supersonictv.live:8080/309298/746090/85088
 #EXTINF:0 group-title="Canais | REDE TV", Rede TV HD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85258
 #EXTINF:0 group-title="Canais | REDE TV", Rede TV 4K
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85262
+
+#EXTINF:0 group-title="Canais | SBT", SBT FHD
+#EXTVLCOPT:network-caching=1000
+http://Supersonictv.live:8080/309298/746090/85089
 #EXTINF:0 group-title="Canais | SBT", SBT 4K
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85268
-#EXTINF:0 group-title="Canais | SBT", SBT AM HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85269
-#EXTINF:0 group-title="Canais | SBT", SBT BA HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85270
-#EXTINF:0 group-title="Canais | SBT", SBT GO HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85271
 #EXTINF:0 group-title="Canais | SBT", SBT HD 
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85272
-#EXTINF:0 group-title="Canais | SBT", SBT Int SP FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85273
-#EXTINF:0 group-title="Canais | SBT", SBT MA
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85274
-#EXTINF:0 group-title="Canais | SBT", SBT MT HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85275
-#EXTINF:0 group-title="Canais | SBT", SBT PI FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85276
-#EXTINF:0 group-title="Canais | SBT", SBT PR HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85277
 #EXTINF:0 group-title="Canais | SBT", SBT RJ FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85278
-#EXTINF:0 group-title="Canais | SBT", SBT RS HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85279
 #EXTINF:0 group-title="Canais | SBT", SBT SD 
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85280
 
+############################################################################ CANAIS FILMES E SERIES
 #EXTGRP:FILMES E SERIES
 #EXTINF:0 group-title="FILMES E SERIES", A&E FHD
 #EXTVLCOPT:network-caching=1000
@@ -546,6 +291,7 @@ http://Supersonictv.live:8080/309298/746090/85354
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85356
 
+############################################################################ CANAIS DOCUMENTARIOS
 #EXTGRP:DOCUMENTARIOS
 #EXTINF:0 group-title="DOCUMENTARIOS", Animal Planet FHD
 #EXTVLCOPT:network-caching=1000
