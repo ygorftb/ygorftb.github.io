@@ -1,6 +1,5 @@
 #EXTM3U
-############################################################################ Canais | ABERTO
-#EXTGRP:Canais | ABERTO
+############################################################################ Canais | ABERTOS
 #EXTINF:0 group-title="Canais | BAND", Band FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84940
@@ -67,7 +66,6 @@ http://Supersonictv.live:8080/309298/746090/85278
 http://Supersonictv.live:8080/309298/746090/85280
 
 ############################################################################ CANAIS FILMES E SERIES
-#EXTGRP:FILMES E SERIES
 #EXTINF:0 group-title="FILMES E SERIES", A&E FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84935
@@ -292,7 +290,6 @@ http://Supersonictv.live:8080/309298/746090/85354
 http://Supersonictv.live:8080/309298/746090/85356
 
 ############################################################################ CANAIS DOCUMENTARIOS
-#EXTGRP:DOCUMENTARIOS
 #EXTINF:0 group-title="DOCUMENTARIOS", Animal Planet FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84936
@@ -343,7 +340,6 @@ http://Supersonictv.live:8080/309298/746090/85106
 http://Supersonictv.live:8080/309298/746090/85107
 
 ############################################################################ CANAIS ESPORTES
-#EXTGRP:Canais | ESPORTES
 #EXTINF:0 group-title="Canais | ESPORTES", Band Sports FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84942
@@ -554,7 +550,7 @@ http://Supersonictv.live:8080/309298/746090/85325
 #EXTINF:-1 cuid="805" tvg-name="Cazétv Eventos ⚽️" tvg-logo="https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0" group-logo="https://cdn-icons-png.freepik.com/512/8053/8053207.png" group-title="Canais | ESPORTES",Cazetv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTGRP:NEWS
+############################################################################ CANAIS NEWS
 #EXTINF:0 group-title="NEWS", Band News FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84941
@@ -581,7 +577,7 @@ http://Supersonictv.live:8080/309298/746090/84988
 http://Supersonictv.live:8080/309298/746090/85005
 
 ############################################################################ CANAIS SOUTH PARK 
-#EXTGRP:CANAIS SOUTH PARK 
+
 #EXTINF:-1 cuid="201" tvg-name="South Park (Coleção Cartman) 🇧🇷" tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-logo="https://img.icons8.com/?size=512&id=6YiaoQeLSIfD&format=png" group-title="Canais | SOUTH PARK",South Park (Coleção Cartman) 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
@@ -598,7 +594,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 ############################################################################ Canais | ANIMES 
-#EXTGRP:Canais | ANIMES 
+
 #EXTINF:-1 cuid="207" tvg-name="loading tv 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png"  group-title="Canais | ANIMES & GEEK",loading tv 🇧🇷
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 cuid="208" tvg-name="Geekdot 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logotipo_100x100_CCTRU7Y.png"  group-title="Canais | ANIMES & GEEK",Geekdot 🇧🇷
@@ -721,7 +717,7 @@ http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
 http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8
 
 ############################################################################ Canais | INFANTIL
-#EXTGRP:Canais | INFANTIL
+
 #EXTINF:0 group-title="Canais | INFANTIL", Boomerang FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84944
@@ -1027,7 +1023,6 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
 
 ################################################################################# Canais INFANTIL 24h
-#EXTGRP:Canais | INFANTIL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chapolin Colorado 24h
 http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
@@ -1093,9 +1088,8 @@ http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/mono.m3u8
 http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8
 
 ############################################################################ Canais | COMÉDIA
-#EXTGRP:Canais | COMÉDIA
-#EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Canais | COMÉDIA",Canal da Praça 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | VARIEDADES",Tratamento de Choque
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | COMÉDIA",Tratamento de Choque
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="Canais | COMÉDIA",PORTA DOS FUNDOS
@@ -1149,7 +1143,7 @@ http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Tô d Graça 24h
 http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
 
-#EXTGRP:Canais | MUSICA
+############################################################################ Canais | MUSICA
 #EXTINF:0 group-title="MUSICA", BIS FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/84943
@@ -1175,7 +1169,7 @@ http://Supersonictv.live:8080/309298/746090/85288
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85355
 
-#EXTGRP:Canais | OUTROS
+############################################################################ Canais | OUTROS
 #EXTINF:0 group-title="OUTROS", GNT FHD
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85032
