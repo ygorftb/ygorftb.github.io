@@ -1,43 +1,25 @@
 #EXTM3U
 ############################################################################ Canais | ABERTOS
-#EXTINF:0 group-title="Canais | BAND", Band FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/84940
-#EXTINF:0 group-title="Canais | BAND", Band FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85006
 
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO RIO HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85011
-#EXTINF:0 group-title="Canais | GLOBO", Globo RJ FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85012
-#EXTINF:0 group-title="Canais | GLOBO" tvg-id="São.Paulo/SP..Globo.br", GLOBO SP FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85015
-#EXTINF:0 group-title="Canais | GLOBO", GLOBO 4K
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85183
+#EXTINF:0 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD H.265" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais | GLOBO",GLOBO RJ FHD H.265
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81577
+#EXTINF:0 tvg-id="globo.rj.br" tvg-name="GLOBO RJ" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais | GLOBO",GLOBO RJ
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13524
+#EXTINF:0 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais | GLOBO",GLOBO RJ FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8866
+#EXTINF:0 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais | GLOBO",GLOBO RJ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8868
+#EXTINF:0 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD ¹" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais | GLOBO",GLOBO RJ HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30105
+#EXTINF:0 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD ²" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais | GLOBO",GLOBO RJ HD ²
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30110
 
-#EXTINF:0 group-title="Canais | RECORD", Record News FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85079
-#EXTINF:0 group-title="Canais | RECORD", Record RJ HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85081
-#EXTINF:0 group-title="Canais | RECORD" tvg-id="São.Paulo/SP..Record.br", Record SP HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85084
-#EXTINF:0 group-title="Canais | RECORD", RECORD 4K
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85245
-#EXTINF:0 group-title="Canais | RECORD", Record Rio RJ HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85252
-#EXTINF:0 group-title="Canais | RECORD"tvg-id="São.Paulo/SP..Record.HD.br", Record SP HD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85256
+#EXTINF:0 tvg-id="record.br" tvg-name="RECORD RJ" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="Canais | RECORD",RECORD RJ
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/106095
+#EXTINF:0 tvg-id="record.br" tvg-name="RECORD RJ FHD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="Canais | RECORD",RECORD RJ FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/71697
+#EXTINF:0 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="Canais | RECORD",RECORD RJ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9063
 
 #EXTINF:0 group-title="Canais | REDE TV", Rede TV FHD
 #EXTVLCOPT:network-caching=1000
@@ -49,21 +31,14 @@ http://Supersonictv.live:8080/309298/746090/85258
 #EXTVLCOPT:network-caching=1000
 http://Supersonictv.live:8080/309298/746090/85262
 
-#EXTINF:0 group-title="Canais | SBT", SBT FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85089
-#EXTINF:0 group-title="Canais | SBT", SBT 4K
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85268
-#EXTINF:0 group-title="Canais | SBT", SBT HD 
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85272
-#EXTINF:0 group-title="Canais | SBT", SBT RJ FHD
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85278
-#EXTINF:0 group-title="Canais | SBT", SBT SD 
-#EXTVLCOPT:network-caching=1000
-http://Supersonictv.live:8080/309298/746090/85280
+#EXTINF:0 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="Canais | SBT",SBT RJ FHD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131563
+#EXTINF:0 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD ¹" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="Canais | SBT",SBT RJ FHD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131564
+#EXTINF:0 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="Canais | SBT",SBT RJ HD
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35844
+#EXTINF:0 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD ¹" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="Canais | SBT",SBT RJ HD ¹
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131565
 
 ############################################################################ CANAIS FILMES E SERIES
 #EXTINF:0 group-title="FILMES E SERIES", A&E FHD
