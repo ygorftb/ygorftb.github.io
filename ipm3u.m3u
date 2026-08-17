@@ -2,5 +2,8 @@
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H.265",Python
 http://192.168.1.64:8080/stream.m3u8
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD H.265",A&E FHD H.265
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="WebRTC",WebRTC
 http://192.168.1.64:8889/live
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HLS",HLS
+http://192.168.1.64:8888/live
