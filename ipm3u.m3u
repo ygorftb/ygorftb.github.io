@@ -3,7 +3,7 @@
 http://192.168.1.64:8080/stream.m3u8
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="WebRTC",WebRTC
-http://192.168.1.64:8889/live
+http://192.168.1.64:8889/live_tv
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="HLS",HLS
-http://192.168.1.64:8888/live
+http://192.168.1.64:8888/live_tv
